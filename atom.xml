@@ -1,36 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>LOVEYOU</title>
-  
-  
+  <title>Ayer</title>
+  <icon>https://www.gravatar.com/avatar/4647c756cdb4793dc319f95c36227f6c</icon>
+  <subtitle>青青子衿 悠悠我心</subtitle>
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-04-23T13:53:22.373Z</updated>
+  <updated>2024-04-23T15:21:53.463Z</updated>
   <id>http://example.com/</id>
   
   <author>
     <name>Unforgettable</name>
-    
+    <email>2024808826@qq.com</email>
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://example.com/2024/04/23/hello-world/"/>
-    <id>http://example.com/2024/04/23/hello-world/</id>
-    <published>2024-04-23T13:53:22.373Z</published>
-    <updated>2024-04-23T13:53:22.373Z</updated>
+    <title>悲觀主義隨記</title>
+    <link href="http://example.com/2024/04/23/pessmiis-1/"/>
+    <id>http://example.com/2024/04/23/pessmiis-1/</id>
+    <published>2024-04-23T15:20:15.000Z</published>
+    <updated>2024-04-23T15:21:53.463Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+    <summary type="html">&lt;p&gt;在這個世界上，我們所面對的每一件事情似乎都充滿了無窮的痛苦和絕望。無論是個人的生活還是整個社會的運行，都充滿了無法逃避的困境和掙紮。悲觀主義告訴我們，人生本身就是一場無休止的苦難，而我們所做的一切努力和希望都註定是徒勞的。&lt;/p&gt;
+&lt;p&gt;首先，人類的本性就是自私和殘忍的。無</summary>
         
       
+    
+    
+    
+    <category term="隨記" scheme="http://example.com/categories/%E9%9A%A8%E8%A8%98/"/>
+    
+    
+    <category term="隨記" scheme="http://example.com/tags/%E9%9A%A8%E8%A8%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>pessimiis-1</title>
+    <link href="http://example.com/2024/04/23/pessimiis-1/"/>
+    <id>http://example.com/2024/04/23/pessimiis-1/</id>
+    <published>2024-04-23T15:18:17.000Z</published>
+    <updated>2024-04-23T15:18:17.375Z</updated>
+    
     
     
     
